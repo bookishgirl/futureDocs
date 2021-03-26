@@ -12,7 +12,12 @@ nav_order: 3
 
 
 # Acquisition
-
+## Create manifest
+### generate checksums
+## check-in
+### integrity check
+## Image source to temporary working environment
+### virus (etc.) check
 
 # Selection
 
