@@ -1,7 +1,7 @@
 ---
 title: Project Template
 layout: default
-nav_order: 1
+nav_order: 2
 ---
 
 # Creating a new Project Card
@@ -11,7 +11,7 @@ nav_order: 1
 
 # Filling in the new Project Card
 
-1. Give your project a name and add the workflow step in parentheses after your project name to indicate which step it will begin on (like Origination but maybe in some cases not).
+1. Give your project a name and add the workflow step in parentheses after your project name to indicate which step it will begin on (likely [Origination](dcworkflow#Origination) but maybe in some cases not).
 2. In the Description section, please add the following information:
     1. Desired outcome for the project
     2. An approximate number of objects and type of object
